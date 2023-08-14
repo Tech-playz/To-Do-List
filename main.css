@@ -102,7 +102,7 @@ body{
 }
 .task-box.overflow{
   overflow-y: auto;
-  max-height: 500px;
+  max-height: 300px;
 }
 .task-box::-webkit-scrollbar{
   width: 5px;
