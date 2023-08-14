@@ -6,11 +6,13 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
 body{
   width: 100%;
   height: 100vh;
   overflow: hidden;
   background: linear-gradient(135deg, #4AB1FF, #2D5CFE);
+  padding-top: 0;
 }
 ::selection{
   color: #fff;
@@ -19,7 +21,7 @@ body{
 .wrapper{
   max-width: 405px;
   padding: 28px 0 30px;
-  margin: 137px auto;
+  margin: 50px auto;
   background: #fff;
   border-radius: 7px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
